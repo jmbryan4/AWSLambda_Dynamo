@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30611.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AWSLambda_Dynamo", "AWSLambda_Dynamo\AWSLambda_Dynamo.csproj", "{772479C6-0AF8-4594-B12A-050E1D06F6B1}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AWSLambda_Dynamo.Tests", "AWSLambda_Dynamo.Tests\AWSLambda_Dynamo.Tests.csproj", "{087F6976-81C8-4E0F-A0D2-EAE6A81FFAC2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{772479C6-0AF8-4594-B12A-050E1D06F6B1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{772479C6-0AF8-4594-B12A-050E1D06F6B1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{772479C6-0AF8-4594-B12A-050E1D06F6B1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{772479C6-0AF8-4594-B12A-050E1D06F6B1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{087F6976-81C8-4E0F-A0D2-EAE6A81FFAC2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{087F6976-81C8-4E0F-A0D2-EAE6A81FFAC2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{087F6976-81C8-4E0F-A0D2-EAE6A81FFAC2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{087F6976-81C8-4E0F-A0D2-EAE6A81FFAC2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {12EC981D-30B7-4657-B206-6C3EBD41DD8F}
+	EndGlobalSection
+EndGlobal
