@@ -32,7 +32,7 @@ namespace AWSLambda_Dynamo
                     ProvisionedThroughput = new ProvisionedThroughput
                     {
                         ReadCapacityUnits = 3,
-                        WriteCapacityUnits = 1
+                        WriteCapacityUnits = 2
                     },
                     KeySchema = new List<KeySchemaElement>
                     {
